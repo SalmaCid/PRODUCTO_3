@@ -1,0 +1,231 @@
+2022-07-05 23:27:43 weka.gui.GUIChooserApp main
+INFO: Logging started
+2022-07-05 23:28:00 INFO: [WekaPackageManager] Package manager using repository mirror: https://weka.sourceforge.io/packageMetaData/
+2022-07-05 23:28:03 weka.gui.GenericObjectEditor registerEditors
+INFO: ---Registering Weka Editors---
+2022-07-05 23:28:06 weka.experiment.DatabaseUtils initialize
+WARNING: Trying to add database driver (JDBC): jdbc.idbDriver - Warning, not in CLASSPATH?
+2022-07-05 23:28:07 weka.gui.beans.BeansProperties loadProperties
+INFO: [KnowledgeFlow] Loading properties and plugins...
+2022-07-05 23:28:07 weka.gui.beans.KnowledgeFlowApp init
+INFO: [KnowledgeFlow] Initializing KF...
+2022-07-05 23:28:56 weka.gui.explorer.Explorer <init>
+INFO: Weka Explorer
+2022-07-05 23:28:56 weka.gui.explorer.Explorer <init>
+INFO: (c) 1999-2022 The University of Waikato, Hamilton, New Zealand
+2022-07-05 23:28:56 weka.gui.explorer.Explorer <init>
+INFO: web: https://www.cs.waikato.ac.nz/~ml/weka/
+2022-07-05 23:28:56 weka.gui.explorer.Explorer <init>
+INFO: Started on martes, 5 julio 2022
+2022-07-06 00:19:58 weka.gui.explorer.PreprocessPanel$21 run
+INFO: Base relation is now ChiapasDB (265570 instances)
+2022-07-06 00:20:32 weka.gui.explorer.PreprocessPanel$22 run
+INFO: Command: weka.filters.unsupervised.attribute.Remove -R 1-5,7-14,17-40
+2022-07-06 00:20:39 weka.gui.explorer.PreprocessPanel$21 run
+INFO: Base relation is now ChiapasDB-weka.filters.unsupervised.attribute.Remove-R1-5,7-14,17-40 (265570 instances)
+2022-07-06 00:28:06 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.functions.LinearRegression
+2022-07-06 00:28:06 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.functions.LinearRegression -S 0 -R 1.0E-8 -num-decimal-places 4
+106117108324854443250485050324950585056584948326546-967746329911110946103105116104117984610211110910910510846110101116108105984666766583326099108105110105116621310656886698284697867736558327097105108101100321161113210811197100321051091121081011091011101169711610511111032102114111109583299111109461031051161041179846102111109109105108461101011161081059846789711610511810183121115116101109667665831310106117108324854443250485050324950585056584948326546-967746329911110946103105116104117984610211110910910510846110101116108105984666766583326099108105110105116621310656886698284697867736558327097105108101100321161113210811197100321051091121081011091011101169711610511111032102114111109583299111109461031051161041179846102111109109105108461101011161081059846789711610511810182101102667665831310106117108324854443250485050324950585056584948326546-96774632991111094610310511610411798461021111091091051084611010111610810598467665806567753260991081051101051166213106568866982846978677365583270971051081011003211611132108111971003210510911210810110910111011697116105111110321021141111095832991111094610310511610411798461021111091091051084611010111610810598467897116105118101831211151161011097665806567751310106117108324854443250485050324950585056584948326546-967746329911110946103105116104117984610211110910910510846110101116108105984676658065677532609910810511010511662131065688669828469786773655832709710510810110032116111321081119710032105109112108101109101110116971161051111103210211411110958329911110946103105116104117984610211110910910510846110101116108105984678971161051181018210110276658065677513102022-07-06 00:28:16 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.functions.LinearRegression
+2022-07-06 00:29:33 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.functions.LinearRegression
+2022-07-06 00:29:33 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.functions.LinearRegression -S 0 -R 1.0E-8 -num-decimal-places 4
+2022-07-06 00:29:39 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.functions.LinearRegression
+2022-07-06 00:48:37 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.functions.LinearRegression
+2022-07-06 00:48:37 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.functions.LinearRegression -S 0 -R 1.0E-8 -num-decimal-places 4
+2022-07-06 00:48:45 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.functions.LinearRegression
+2022-07-06 01:19:14 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.trees.M5P
+2022-07-06 01:19:14 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.trees.M5P -M 4.0 -num-decimal-places 4
+2022-07-06 01:19:38 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.trees.M5P
+2022-07-06 01:20:18 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.trees.M5P
+2022-07-06 01:20:18 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.trees.M5P -M 4.0 -num-decimal-places 4
+2022-07-06 01:20:33 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.trees.M5P
+2022-07-06 01:24:44 weka.gui.explorer.Explorer <init>
+INFO: Weka Explorer
+2022-07-06 01:24:44 weka.gui.explorer.Explorer <init>
+INFO: (c) 1999-2022 The University of Waikato, Hamilton, New Zealand
+2022-07-06 01:24:44 weka.gui.explorer.Explorer <init>
+INFO: web: https://www.cs.waikato.ac.nz/~ml/weka/
+2022-07-06 01:24:44 weka.gui.explorer.Explorer <init>
+INFO: Started on miércoles, 6 julio 2022
+2022-07-06 01:24:54 weka.gui.explorer.Explorer <init>
+INFO: Weka Explorer
+2022-07-06 01:24:54 weka.gui.explorer.Explorer <init>
+INFO: (c) 1999-2022 The University of Waikato, Hamilton, New Zealand
+2022-07-06 01:24:54 weka.gui.explorer.Explorer <init>
+INFO: web: https://www.cs.waikato.ac.nz/~ml/weka/
+2022-07-06 01:24:54 weka.gui.explorer.Explorer <init>
+INFO: Started on miércoles, 6 julio 2022
+2022-07-06 01:25:07 weka.gui.explorer.PreprocessPanel$21 run
+INFO: Base relation is now ChiapasDB (265570 instances)
+2022-07-06 01:26:01 weka.gui.explorer.PreprocessPanel$21 run
+INFO: Base relation is now ChiapasPRUEBA (265570 instances)
+2022-07-06 01:26:26 weka.gui.explorer.Explorer <init>
+INFO: Weka Explorer
+2022-07-06 01:26:26 weka.gui.explorer.Explorer <init>
+INFO: (c) 1999-2022 The University of Waikato, Hamilton, New Zealand
+2022-07-06 01:26:26 weka.gui.explorer.Explorer <init>
+INFO: web: https://www.cs.waikato.ac.nz/~ml/weka/
+2022-07-06 01:26:27 weka.gui.explorer.Explorer <init>
+INFO: Started on miércoles, 6 julio 2022
+2022-07-06 01:26:54 weka.gui.explorer.PreprocessPanel$21 run
+INFO: Base relation is now ChiapasDB (265570 instances)
+2022-07-06 01:27:29 weka.gui.explorer.PreprocessPanel$21 run
+INFO: Base relation is now ChiapasDB (265570 instances)
+2022-07-06 01:28:58 weka.gui.explorer.PreprocessPanel$22 run
+INFO: Command: weka.filters.unsupervised.attribute.Remove -R 1-5,7-14,17-20,26,29,31-32,34-40
+2022-07-06 01:29:02 weka.gui.explorer.PreprocessPanel$21 run
+INFO: Base relation is now ChiapasDB-weka.filters.unsupervised.attribute.Remove-R1-5,7-14,17-20,26,29,31-32,34-40 (265570 instances)
+2022-07-06 01:29:25 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.trees.J48
+2022-07-06 01:29:25 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.trees.J48 -C 0.25 -M 2
+2022-07-06 01:30:37 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.trees.J48
+2022-07-06 01:47:01 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.trees.J48
+2022-07-06 01:47:01 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.trees.J48 -C 0.25 -M 2
+2022-07-06 01:48:13 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.trees.J48
+2022-07-06 02:05:22 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.trees.RandomTree
+2022-07-06 02:05:22 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1
+2022-07-06 02:05:45 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.trees.RandomTree
+2022-07-06 02:14:45 weka.gui.explorer.PreprocessPanel$22 run
+INFO: Command: weka.filters.unsupervised.attribute.Remove -R 12
+2022-07-06 02:14:47 weka.gui.explorer.PreprocessPanel$21 run
+INFO: Base relation is now ChiapasDB-weka.filters.unsupervised.attribute.Remove-R1-5,7-14,17-20,26,29,31-32,34-40-weka.filters.unsupervised.attribute.Remove-R12 (265570 instances)
+2022-07-06 02:14:53 weka.gui.explorer.PreprocessPanel$22 run
+INFO: Command: weka.filters.unsupervised.attribute.Remove -R 3
+2022-07-06 02:14:55 weka.gui.explorer.PreprocessPanel$21 run
+INFO: Base relation is now ChiapasDB-weka.filters.unsupervised.attribute.Remove-R1-5,7-14,17-20,26,29,31-32,34-40-weka.filters.unsupervised.attribute.Remove-R12-weka.filters.unsupervised.attribute.Remove-R3 (265570 instances)
+2022-07-06 02:15:04 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.trees.RandomTree
+2022-07-06 02:15:04 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1
+2022-07-06 02:15:12 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.trees.RandomTree
+2022-07-06 02:25:47 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.trees.RandomForest
+2022-07-06 02:25:47 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+2022-07-06 02:31:22 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.trees.RandomForest
+2022-07-06 02:37:06 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Started weka.classifiers.trees.J48
+2022-07-06 02:37:06 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Command: weka.classifiers.trees.J48 -C 0.25 -M 2
+2022-07-06 02:37:24 weka.gui.explorer.ClassifierPanel$20 run
+INFO: Finished weka.classifiers.trees.J48
+STATUS: Saving to file...
+java.io.FileNotFoundException: C:\Program Files\Weka-3-8-6\Arbol (Acceso denegado)
+	java.base/java.io.FileOutputStream.open0(Native Method)
+	java.base/java.io.FileOutputStream.open(Unknown Source)
+	java.base/java.io.FileOutputStream.<init>(Unknown Source)
+	java.base/java.io.FileOutputStream.<init>(Unknown Source)
+	java.base/java.io.FileWriter.<init>(Unknown Source)
+	weka.gui.SaveBuffer.saveOverwriteAppend(SaveBuffer.java:149)
+	weka.gui.SaveBuffer.save(SaveBuffer.java:120)
+	weka.gui.explorer.ClassifierPanel.saveBuffer(ClassifierPanel.java:2764)
+	weka.gui.explorer.ClassifierPanel$23.actionPerformed(ClassifierPanel.java:2096)
+	java.desktop/javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	java.desktop/javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	java.desktop/javax.swing.AbstractButton.doClick(Unknown Source)
+	java.desktop/javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	java.desktop/java.awt.Component.processMouseEvent(Unknown Source)
+	java.desktop/javax.swing.JComponent.processMouseEvent(Unknown Source)
+	java.desktop/java.awt.Component.processEvent(Unknown Source)
+	java.desktop/java.awt.Container.processEvent(Unknown Source)
+	java.desktop/java.awt.Component.dispatchEventImpl(Unknown Source)
+	java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+	java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+	java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+	java.desktop/java.awt.Window.dispatchEventImpl(Unknown Source)
+	java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+	java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+	java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+	java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(Unknown Source)
+	at java.base/java.io.FileOutputStream.<init>(Unknown Source)
+	at java.base/java.io.FileOutputStream.<init>(Unknown Source)
+	at java.base/java.io.FileWriter.<init>(Unknown Source)
+	at weka.gui.SaveBuffer.saveOverwriteAppend(SaveBuffer.java:149)
+	at weka.gui.SaveBuffer.save(SaveBuffer.java:120)
+	at weka.gui.explorer.ClassifierPanel.saveBuffer(ClassifierPanel.java:2764)
+	at weka.gui.explorer.ClassifierPanel$23.actionPerformed(ClassifierPanel.java:2096)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at java.desktop/javax.swing.AbstractButton.doClick(Unknown Source)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.desktop/java.awt.Component.processMouseEvent(Unknown Source)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.desktop/java.awt.Component.processEvent(Unknown Source)
+	at java.desktop/java.awt.Container.processEvent(Unknown Source)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+LOG 2022.07.06 03:03:27: C:\Program Files\Weka-3-8-6\Arbol (Acceso denegado)
